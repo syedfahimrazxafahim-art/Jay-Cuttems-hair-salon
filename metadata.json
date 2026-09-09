@@ -1,0 +1,6 @@
+{
+  "name": "Jay Cut’em’s Barbershop",
+  "description": "Official website for Jay Cut’em’s Barbershop in Houston, Texas. Modern urban premium barbershop offering clean craftsmanship, precision fades, and expert grooming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
